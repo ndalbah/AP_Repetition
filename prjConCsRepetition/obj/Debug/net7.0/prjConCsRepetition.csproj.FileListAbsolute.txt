@@ -1,0 +1,15 @@
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/bin/Debug/net7.0/prjConCsRepetition
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/bin/Debug/net7.0/prjConCsRepetition.deps.json
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/bin/Debug/net7.0/prjConCsRepetition.runtimeconfig.json
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/bin/Debug/net7.0/prjConCsRepetition.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/bin/Debug/net7.0/prjConCsRepetition.pdb
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/prjConCsRepetition.csproj.AssemblyReference.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/prjConCsRepetition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/prjConCsRepetition.AssemblyInfoInputs.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/prjConCsRepetition.AssemblyInfo.cs
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/prjConCsRepetition.csproj.CoreCompileInputs.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/prjConCsRepetition.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/refint/prjConCsRepetition.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/prjConCsRepetition.pdb
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/prjConCsRepetition.genruntimeconfig.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsRepetition/prjConCsRepetition/obj/Debug/net7.0/ref/prjConCsRepetition.dll
